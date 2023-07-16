@@ -1,6 +1,4 @@
-# Wly0910.github.io
-
-haha
-
-## 
-hahah
+# 7.15
+廖雪峰看完
+numpy+pandas
+pytorch看完
